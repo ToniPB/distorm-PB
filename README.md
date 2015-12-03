@@ -3,6 +3,8 @@ diStorm Disassembler for PurBasic
 
 http://ragestorm.net/distorm/
 
+https://github.com/gdabah/distorm
+
 Powerful Disassembler Library For AMD64
 
 Definition: A lightweight, Easy-to-Use and Fast Disassembler/Decomposer Library for x86/AMD64. A Decomposer means that you get a binary structure that describes an instruction rather than textual representation.
