@@ -2,7 +2,6 @@
 diStorm Disassembler for PurBasic
 
 http://ragestorm.net/distorm/
-https://github.com/gdabah/distorm
 
 Powerful Disassembler Library For AMD64
 
