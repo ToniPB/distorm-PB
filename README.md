@@ -1,5 +1,5 @@
 # distorm-PB
-diStorm Disassembler for PurBasic
+diStorm Disassembler for PureBasic
 
 http://ragestorm.net/distorm/
 
